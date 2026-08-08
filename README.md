@@ -38,20 +38,19 @@ Citizen-science and observational data to investigate changes in seabird distrib
 
 ---
 
-## Publications
-
-You can find my research on:
-
-- [ResearchGate](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno?ev=hdr_xprf)
-- [Google Scholar](https://scholar.google.com/citations?user=AakpPAoAAAAJ&hl=es)
-- [ORCID](https://orcid.org/0000-0002-9527-5271)
-
----
-
 ## Tools
 
 `R` · `RStudio` · `ArcGIS` · `Git` · `GitHub` · `iNaturalist`, `GBIF`
 
+---
+
+## Publications & Research Profiles
+
+You can find my research on:
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Daniel%20Velasco-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno?ev=hdr_xprf)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=AakpPAoAAAAJ&hl=es)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9527--5271-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9527-5271)
 ---
 
 ## Contact
