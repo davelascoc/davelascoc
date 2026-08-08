@@ -15,7 +15,7 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 
 ---
 
-##💡Research interests
+## 💡Research interests
 
 - Shark and pelagic species movement ecology
 - Marine protected areas
@@ -34,7 +34,6 @@ Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafa
 
 ### 🪸 Coral ecology and restoration (Galápagos Reef Revival)
 Manage and analyze long-term datasets on coral survival, health, and growth of Pocillopora corals within coral nurseries and outplants. Collaborate closely with project leadership on scientific outputs and data-driven insights for restoration planning. Support ecological monitoring and seasonal fieldwork, including growth measurements, fitness assessments, genetic sampling, and SCUBA-based selection of donor colonies. Co-led a feasibility study of coral planting in Galapagos through a pilot project. My undergraduate thesis evaluated the effect of temperature and ENSO on coral survival and bleaching.
-
 
 ### 🐦 Seabirds & El Niño (Independent)
 Co-leading a citizen science* initiative and collaborative research project investigating how El Niño-driven ocean warming affects the distribution, body condition, and survival of seabirds along the Ecuadorian coast. The project integrates observations from iNaturalist, eBird, community reports, and field surveys with environmental and fisheries data to understand how climate-driven changes in ocean conditions propagate through marine food webs and influence top predators. Current research focuses on the northward redistribution of Humboldt Current seabirds, including the Guanay Cormorant (Leucocarbo bougainvillii), Inca Tern (Larosterna inca), and Peruvian Booby (Sula variegata) during recent El Niño events.
