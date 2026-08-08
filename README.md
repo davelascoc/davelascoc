@@ -3,7 +3,7 @@
 ## 🌊 About Me
 - 🎓 BSc in Biology, University San Francisco de Quito USFQ (2020-2024).
 - 🔬 Scientist collaborating with MigraMar, Galapagos Reef Revival and others.
-- 🌍 Based in Manabí, Ecuador 🇪🇨.
+- 💻 Based in Manabí, Ecuador 🇪🇨.
 
 I am an Ecuadorian marine biologist working on ecology applied in marine conservation, with a particular focus on the Galápagos Islands and the coast of Ecuador.
 
@@ -15,7 +15,7 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 
 ---
 
-## Research interests
+##💡Research interests
 
 - Shark and pelagic species movement ecology
 - Marine protected areas
@@ -27,7 +27,7 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 
 ---
 
-## Currently working on:
+## 📊Currently working on:
 
 ### 🦈 Marine megafauna and movement ecology (Migramar & USFQ)
 Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafauna for the Bezos CMAR project and associated USFQ–MigraMar–GCT research initiatives. Produce technical reports, scientific manuscripts, and cartographic products, under the supervision of Dr. Alex Hearn (USFQ). Supported the baseline ecological study of the recently created Hermandad Marine Reserve, coordinated by ECOLAP-USFQ and funded by The Pew Charitable Trusts. Analyzed multi-taxa ecological datasets including sharks, tuna, seabirds, and cetaceans. Assist seasonal fieldwork activities in Galápagos.
@@ -43,7 +43,7 @@ Co-leading a citizen science* initiative and collaborative research project inve
 
 ---
 
-## Recent Publications
+## 📝Recent Publications
 
 Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on Pocillopora (Scleractinia: Pocilloporidae) growth. Revista de Biología Tropical, 74(S1), e202610168. https://doi.org/10.15517/0xznfj40
 
@@ -55,7 +55,7 @@ Pozo, G., Guadalupe, J. J., Pozo, M. J., Cisneros-Heredia, D. F., Cerca, J., Ala
 
 ---
 
-## Contact & Research Profiles
+## 📬Contact & Research Profiles
 
 **Daniel Velasco Cedeño**  (velascodaniel2002@gmail.com)
 
