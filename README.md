@@ -1,5 +1,10 @@
 # Daniel Velasco-Cedeño
 
+## 🔬 About Me
+🎓 BSc in Biology, University San Francisco de Quito USFQ (2020-2024)
+💼 Scientist collaborating with MigraMar, Galapagos Reef Revival and others
+🌍 Based in Manabí, Ecuador
+
 I am an Ecuadorian marine biologist working on marine ecology and conservation in the Eastern Tropical Pacific, with a particular focus on the Galápagos Islands and the coast of Ecuador.
 
 My research interests focus on the application of quantitative and spatial approaches to marine ecology and conservation. My work spans the ecology and conservation of sharks and other highly mobile marine species, coral reef restoration, and seabird distributional responses to El Niño events.
