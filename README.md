@@ -34,6 +34,8 @@ Monitoring coral survival, growth, and physiological performance to evaluate cor
 ### 🐦 Seabirds & El Niño
 Citizen-science and observational data to investigate changes in seabird distribution along the Ecuadorian coast associated with El Niño events.
 
+*I use iNaturalist to document marine and terrestrial biodiversity, contribute observations to citizen-science projects, and support some of my research activities.
+
 ---
 
 ## Publications
@@ -46,7 +48,6 @@ You can find my research on:
 
 ---
 
-
 ## Tools
 
 `R` · `RStudio` · `ArcGIS` · `Git` · `GitHub` · `iNaturalist`, `GBIF`
@@ -58,18 +59,5 @@ You can find my research on:
 **Daniel Velasco Cedeño**  
 Marine Biologist — Ecuador
 
-[LinkedIn](https://www.linkedin.com/in/davelascoc/) · [Instagram](https://www.instagram.com/davelasco_bio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/davelascoc) · [![Instagram](https://img.shields.io/badge/Instagram-@davelascoc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_INSTAGRAM) · [![iNaturalist](https://img.shields.io/badge/iNaturalist-My%20Observations-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/observations?place_id=any&user_id=davelascoc&verifiable=any)
 
-
-## Field observations & citizen science
-
-I use iNaturalist to document marine and terrestrial biodiversity, contribute observations to citizen-science projects, and support some of my research activities.
-
-[![iNaturalist](https://img.shields.io/badge/iNaturalist-davelascoc-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/observations/davelascoc)
-
-🔎 **[Explore my observations on iNaturalist →](https://www.inaturalist.org/observations/davelascoc)**
-
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Velasco--Cedeño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/davelascoc)
