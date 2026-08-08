@@ -59,7 +59,6 @@ Pozo, G., Guadalupe, J. J., Pozo, M. J., Cisneros-Heredia, D. F., Cerca, J., Ala
 ## Contact & Research Profiles
 
 **Daniel Velasco Cedeño**  (velascodaniel2002@gmail.com)
-Marine Biologist — Ecuador
 
 You can find me and my research on:
 
