@@ -1,66 +1,30 @@
-# Hi, I'm Daniel Velasco-Cedeño
+# Daniel Velasco-Cedeño
 
 **Marine Biologist | Marine Ecology & Conservation**
 
 I am an Ecuadorian marine biologist working on marine ecology and conservation in the Eastern Tropical Pacific, with a particular focus on the Galápagos Islands and the coast of Ecuador.
 
-My research interests include the ecology and conservation of sharks and other highly mobile marine species, coral reef restoration, seabird responses to oceanographic variability, and the application of quantitative and spatial approaches to marine conservation.
+My research interests include applications of quantitative and spatial approaches to marine conservation. Mi experience includes research about the ecology and conservation of sharks and other highly mobile marine species, coral reef restoration and seabird distribution responses to El Niño events.
 
-I currently collaborate with **MigraMar** on research on sharks and other pelagic species, particularly movement ecology, spatial distribution, and marine connectivity. I also work with the **Galápagos Reef Revival** project, where I study coral survival, growth, and physiological performance in restoration nurseries.
+I currently collaborate with the **MigraMar network** on research on sharks and other pelagic species, particularly movement ecology, spatial distribution, and marine connectivity. I also work with the **Galápagos Reef Revival** project, where I study coral survival, growth, and physiological performance in restoration nurseries.
 
-Much of my work combines **field ecology, data analysis, and spatial analysis in R and GIS**, with an emphasis on producing reproducible research that can contribute to marine conservation and management.
+Much of my work combines **field ecology, data analysis, and spatial analysis in R**, with an emphasis on producing reproducible research that can contribute to marine conservation and management.
 
 ---
 
-## Research interests
+## Research interests and Work
 
-- Shark and pelagic species ecology
-- Movement ecology and marine connectivity
-- Coral reef ecology and restoration
-- Seabird ecology and ENSO
+- Shark and pelagic species movement ecology
 - Marine protected areas
+- Coral reef ecology and restoration
+- Interaction of marine species with El Niño
 - Spatial ecology and GIS
 - Citizen science
-- Quantitative ecology
-
+- Reproducible research workflows in R
 ---
 
-## Current research
 
-### Sharks & pelagic species
-
-I collaborate with **MigraMar** on research examining the movements, spatial distribution, and connectivity of sharks and other highly mobile marine species across the Eastern Tropical Pacific.
-
-My current work includes satellite telemetry, spatial analyses, and biodiversity assessments associated with oceanic islands, marine protected areas, and seamount ecosystems.
-
-### Coral restoration in the Galápagos
-
-I am part of **Galápagos Reef Revival**, a collaborative coral restoration initiative in the Galápagos Islands.
-
-My research focuses on the survival, growth, and physiological performance of *Pocillopora* corals maintained in restoration nurseries, including their responses to seasonal environmental variability and ENSO conditions.
-
-### Seabirds & ENSO
-
-I am developing research on anomalous movements of Eastern Pacific seabirds along the Ecuadorian coast during El Niño events.
-
-This work integrates citizen-science records and field observations to investigate changes in the distribution of species such as the Guanay Cormorant (*Leucocarbo bougainvilliorum*), Inca Tern (*Larosterna inca*), and Peruvian Booby (*Sula variegata*).
-
----
-
-## Selected projects
-
-### Galápagos Reef Revival
-Coral restoration and long-term monitoring of coral performance in the Galápagos Islands.
-
-### MigraMar
-Movement ecology, spatial distribution, and conservation of sharks and other highly mobile marine species in the Eastern Tropical Pacific.
-
-### Seabirds ENSO Ecuador
-Citizen-science initiative documenting changes in seabird distributions and mortality associated with ENSO events along the Ecuadorian coast.
-
----
-
-## Publications
+## Recent Publications
 
 You can find my research on:
 
@@ -70,20 +34,6 @@ You can find my research on:
 
 ---
 
-## Data & code
-
-Most of my quantitative work is conducted in **R**, including:
-
-- Ecological data analysis
-- Data visualization
-- Spatial analysis
-- Biodiversity analyses
-- Movement and telemetry data
-- Reproducible research workflows
-
-Research datasets and analytical code associated with selected projects and publications are available through my GitHub repositories.
-
----
 
 ## Tools
 
