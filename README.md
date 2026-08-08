@@ -48,9 +48,10 @@ Citizen-science and observational data to investigate changes in seabird distrib
 
 You can find my research on:
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Daniel%20Velasco-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno?ev=hdr_xprf)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=AakpPAoAAAAJ&hl=es)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9527--5271-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9527-5271)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Daniel%20Velasco-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Daniel-Velasco-Cedeno?ev=hdr_xprf)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=AakpPAoAAAAJ&hl=es)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9527--5271-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9527-5271)
+
 ---
 
 ## Contact
@@ -58,5 +59,6 @@ You can find my research on:
 **Daniel Velasco Cedeño**  
 Marine Biologist — Ecuador
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/davelascoc) · [![Instagram](https://img.shields.io/badge/Instagram-@davelascoc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_INSTAGRAM) · [![iNaturalist](https://img.shields.io/badge/iNaturalist-My%20Observations-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/observations?place_id=any&user_id=davelascoc&verifiable=any)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Velasco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/davelascoc)
+[![Instagram](https://img.shields.io/badge/Instagram-davelascoc-E4405F?style=flat&logo=instagram&logoColor=white)](TU_LINK_INSTAGRAM)
+[![iNaturalist](https://img.shields.io/badge/iNaturalist-My%20observations-74AC00?style=flat&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/observations?place_id=any&user_id=davelascoc&verifiable=any)
