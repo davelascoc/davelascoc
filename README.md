@@ -30,15 +30,14 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 ## Currently working on:
 
 ### 🦈 Marine megafauna and movement ecology (Migramar & USFQ)
-Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafauna for the Bezos CMAR project and associated USFQ–MigraMar–GCT research initiatives. Produce technical reports, scientific manuscripts, and cartographic products, under the supervision of Dr. Alex Hearn (USFQ). Assist seasonal fieldwork activities in Galápagos.
-
-Supported the baseline ecological study of the recently created Hermandad Marine Reserve, coordinated by ECOLAP-USFQ and funded by The Pew Charitable Trusts. Analyzed multi-taxa ecological datasets including sharks, tuna, seabirds, and cetaceans.
+Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafauna for the Bezos CMAR project and associated USFQ–MigraMar–GCT research initiatives. Produce technical reports, scientific manuscripts, and cartographic products, under the supervision of Dr. Alex Hearn (USFQ). Supported the baseline ecological study of the recently created Hermandad Marine Reserve, coordinated by ECOLAP-USFQ and funded by The Pew Charitable Trusts. Analyzed multi-taxa ecological datasets including sharks, tuna, seabirds, and cetaceans. Assist seasonal fieldwork activities in Galápagos.
 
 ### 🪸 Coral ecology and restoration (Galápagos Reef Revival)
-Monitoring coral survival, growth, and physiological performance to evaluate coral restoration strategies in the Galápagos Islands.
+Manage and analyze long-term datasets on coral survival, health, and growth of Pocillopora corals within coral nurseries and outplants. Collaborate closely with project leadership on scientific outputs and data-driven insights for restoration planning. Support ecological monitoring and seasonal fieldwork, including growth measurements, fitness assessments, genetic sampling, and SCUBA-based selection of donor colonies. Co-led a feasibility study of coral planting in Galapagos through a pilot project. My undergraduate thesis evaluated the effect of temperature and ENSO on coral survival and bleaching.
+
 
 ### 🐦 Seabirds & El Niño (Independent)
-Citizen-science* and observational data to investigate changes in seabird distribution along the Ecuadorian coast associated with El Niño events.
+Co-leading a citizen science* initiative and collaborative research project investigating how El Niño-driven ocean warming affects the distribution, body condition, and survival of seabirds along the Ecuadorian coast. The project integrates observations from iNaturalist, eBird, community reports, and field surveys with environmental and fisheries data to understand how climate-driven changes in ocean conditions propagate through marine food webs and influence top predators. Current research focuses on the northward redistribution of Humboldt Current seabirds, including the Guanay Cormorant (Leucocarbo bougainvillii), Inca Tern (Larosterna inca), and Peruvian Booby (Sula variegata) during recent El Niño events.
 
 *I use iNaturalist to document marine and terrestrial biodiversity. Contribute observations to citizen-science projects, and support some of my research activities :)
 
