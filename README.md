@@ -1,7 +1,5 @@
 # Daniel Velasco-Cedeño
 
-**Marine Biologist | Marine Ecology & Conservation**
-
 I am an Ecuadorian marine biologist working on marine ecology and conservation in the Eastern Tropical Pacific, with a particular focus on the Galápagos Islands and the coast of Ecuador.
 
 My research interests focus on the application of quantitative and spatial approaches to marine ecology and conservation. My work spans the ecology and conservation of sharks and other highly mobile marine species, coral reef restoration, and seabird distributional responses to El Niño events.
@@ -21,6 +19,7 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 - Spatial ecology and GIS
 - Citizen science
 - Reproducible research workflows in R
+
 ---
 
 ## Current Projects
