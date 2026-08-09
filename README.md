@@ -65,5 +65,5 @@ You can find me and my research on:
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9527--5271-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9527-5271)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Velasco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ec.linkedin.com/in/davelascoc)
-[![Instagram](https://img.shields.io/badge/Instagram-davelascoc-E4405F?style=flat&logo=instagram&logoColor=white)](TU_LINK_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-davelascoc-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/davelasco_bio/)
 [![iNaturalist](https://img.shields.io/badge/iNaturalist-My%20observations-74AC00?style=flat&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/observations?place_id=any&user_id=davelascoc&verifiable=any)
