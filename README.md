@@ -5,13 +5,9 @@
 - 🔬 Scientist collaborating with MigraMar, Galapagos Reef Revival and others.
 - 💻 Based in Manabí, Ecuador 🇪🇨.
 
-I am an Ecuadorian marine biologist working on ecology applied in marine conservation, with a particular focus on the Galápagos Islands and the coast of Ecuador.
+I am an Ecuadorian marine biologist working on the application of quantitative and spatial approaches applied in marine ecology and conservation, with a particular focus on the Galápagos Islands and the coast of Ecuador. My experience includes research about the spatial ecology of sharks and other highly mobile marine species, coral reef ecology and restoration, and ecological responses to El Niño events.
 
-My research interests focus on the application of quantitative and spatial approaches to marine ecology and conservation. My work spans the spatial ecology of sharks and other highly mobile marine species, coral reef ecology and restoration, and ecological responses to El Niño events.
-
-I currently collaborate with the **MigraMar network** on research on sharks and other pelagic species, particularly movement ecology, spatial distribution, and marine connectivity. I also work with the **Galápagos Reef Revival** project, where I study coral survival, growth, and physiological performance in restoration nurseries.
-
-Much of my work combines **field ecology, data analysis, and spatial analysis in R**, with an emphasis on producing reproducible research that can contribute to marine conservation and management.
+I currently collaborate with the **MigraMar network** on research on sharks and other pelagic species, particularly movement ecology, spatial distribution, and marine connectivity. In paralell, I work with **Galápagos Reef Revival**, where I study coral survival, growth, and physiological performance in restoration nurseries. Much of my work combines **field ecology, data analysis, and spatial analysis in R**, with an emphasis on producing reproducible research that can contribute to marine conservation and management.
 
 ---
 
@@ -30,13 +26,13 @@ Much of my work combines **field ecology, data analysis, and spatial analysis in
 ## 📊Currently working on:
 
 ### 🦈 Marine megafauna and movement ecology (Migramar & USFQ)
-Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafauna for the Bezos CMAR project and associated USFQ–MigraMar–GCT research initiatives. Produce technical reports, scientific manuscripts, and cartographic products, under the supervision of Dr. Alex Hearn (USFQ). Supported the baseline ecological study of the recently created Hermandad Marine Reserve, coordinated by ECOLAP-USFQ and funded by The Pew Charitable Trusts. Analyzed multi-taxa ecological datasets including sharks, tuna, seabirds, and cetaceans. Assist seasonal fieldwork activities in Galápagos.
+Analyze satellite telemetry, BRUVS and citizen science datasets of marine megafauna for associated USFQ–MigraMar research initiatives. Produce technical reports, scientific manuscripts, and cartographic products, under the supervision of Dr. Alex Hearn (USFQ). Supported the baseline ecological study of the recently created Hermandad Marine Reserve. Analyzed multi-taxa ecological datasets including sharks, tuna, seabirds, and cetaceans.
 
 ### 🪸 Coral ecology and restoration (Galápagos Reef Revival)
-Manage and analyze long-term datasets on coral survival, health, and growth of Pocillopora corals within coral nurseries and outplants. Collaborate closely with project leadership on scientific outputs and data-driven insights for restoration planning. Support ecological monitoring and seasonal fieldwork, including growth measurements, fitness assessments, genetic sampling, and SCUBA-based selection of donor colonies. Co-led a feasibility study of coral planting in Galapagos through a pilot project. My undergraduate thesis evaluated the effect of temperature and ENSO on coral survival and bleaching.
+Manage and analyze long-term datasets on coral survival, health, and growth of Pocillopora corals within coral nurseries and outplants. Collaborate closely with project leadership on scientific outputs and data-driven insights for restoration planning. Co-led a feasibility study of coral planting in Galapagos through a pilot project. My undergraduate thesis evaluated the effect of temperature and ENSO on coral survival and bleaching.
 
 ### 🐦 Seabirds & El Niño (Independent)
-Co-leading a citizen science* initiative and collaborative research project investigating how El Niño-driven ocean warming affects the distribution, body condition, and survival of seabirds along the Ecuadorian coast. The project integrates observations from iNaturalist, eBird, community reports, and field surveys with environmental and fisheries data to understand how climate-driven changes in ocean conditions propagate through marine food webs and influence top predators. Current research focuses on the northward redistribution of Humboldt Current seabirds, including the Guanay Cormorant (Leucocarbo bougainvillii), Inca Tern (Larosterna inca), and Peruvian Booby (Sula variegata) during recent El Niño events.
+Co-leading a citizen science* initiative and collaborative research project investigating how recent El Niño-driven ocean warming affects the distribution, body condition, and survival of Humboldt Current seabirds along the Ecuadorian coast. The project integrates observations from iNaturalist, eBird, community reports, and other datasets with environmental and fisheries data to understand how changes in ocean conditions influence marine food webs AND top predators.
 
 *I use iNaturalist to document marine and terrestrial biodiversity. Contribute observations to citizen-science projects, and support some of my research activities :)
 
@@ -44,13 +40,13 @@ Co-leading a citizen science* initiative and collaborative research project inve
 
 ## 📝Recent Publications
 
-Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on Pocillopora (Scleractinia: Pocilloporidae) growth. Revista de Biología Tropical, 74(S1), e202610168. https://doi.org/10.15517/0xznfj40
+Dávalos, N., **Velasco-Cedeño, D.**, & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on Pocillopora (Scleractinia: Pocilloporidae) growth. Revista de Biología Tropical, 74(S1), e202610168. https://doi.org/10.15517/0xznfj40
 
-Velasco-Cedeño, D., Viteri-Basso, E., Vivas, W., & Guerrero-Campoverde, A. (2026). Birds in the Concrete Forest: Nest-site Use on Human-made Structures across Western Ecuador. El Hornero, 41(1). https://doi.org/10.56178/eh.v41i1.1538
+**Velasco-Cedeño, D.**, Viteri-Basso, E., Vivas, W., & Guerrero-Campoverde, A. (2026). Birds in the Concrete Forest: Nest-site Use on Human-made Structures across Western Ecuador. El Hornero, 41(1). https://doi.org/10.56178/eh.v41i1.1538
 
-Velasco-Cedeño, D., Miranda-Moyano, N., Moya, G. F., & Cisneros-Heredia, D. F. (2026). Ecological patterns of hymenopteran pollinators in an Andean urban area derived from participatory science. bioRxiv. Preprint. https://doi.org/10.64898/2026.05.21.726748
+**Velasco-Cedeño, D.**, Miranda-Moyano, N., Moya, G. F., & Cisneros-Heredia, D. F. (2026). Ecological patterns of hymenopteran pollinators in an Andean urban area derived from participatory science. bioRxiv. Preprint. https://doi.org/10.64898/2026.05.21.726748
 
-Pozo, G., Guadalupe, J. J., Pozo, M. J., Cisneros-Heredia, D. F., Cerca, J., Alarcón-Bolaños, P., Suárez, M. V., Dávila-Játiva, M., Peñaherrera-Romero, E., Brito-Zapata, D., Velasco-Cedeño, D., & Torres, M. de L. (2025). Genomic and biogeographic patterns of endemic geckos in the Galapagos Islands reveal population structure and species delimitation on inhabited islands. Scientific Reports, 15(1). https://doi.org/10.1038/s41598-025-24790-2
+Pozo, G., Guadalupe, J. J., Pozo, M. J., Cisneros-Heredia, D. F., Cerca, J., Alarcón-Bolaños, P., Suárez, M. V., Dávila-Játiva, M., Peñaherrera-Romero, E., Brito-Zapata, D., **Velasco-Cedeño, D.**, & Torres, M. de L. (2025). Genomic and biogeographic patterns of endemic geckos in the Galapagos Islands reveal population structure and species delimitation on inhabited islands. Scientific Reports, 15(1). https://doi.org/10.1038/s41598-025-24790-2
 
 ---
 
